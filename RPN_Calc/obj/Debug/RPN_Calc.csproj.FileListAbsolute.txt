@@ -1,0 +1,13 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\bin\Debug\RPN_Calc.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\bin\Debug\RPN_Calc.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\RPN_Calc\RPN_Calc\obj\Debug\RPN_Calc.pdb

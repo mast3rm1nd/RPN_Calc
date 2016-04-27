@@ -1,0 +1,16 @@
+﻿<Window x:Class="RPN_Calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RPN_Calc"
+        mc:Ignorable="d"
+        Title="RPN Calc" Height="271.3" Width="483.2" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Math expression:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Expression_textBox" Height="23" Margin="114,13,9.8,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:Name="Calculate_button" Content="Calculate" Margin="10,41,9.8,0" VerticalAlignment="Top" Height="38" Click="Calculate_button_Click"/>
+        <TextBox x:Name="Results_textBox" Margin="10,84,9.8,9.6" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" FontFamily="Consolas"/>
+
+    </Grid>
+</Window>
